@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">PasswordManager</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+    <string name="password_manager">Password Manager</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_first_name">Enter First Name</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="types">Types</string>
+    <string name="home_login">Login</string>
+    <string name="card">Card</string>
+    <string name="identity">Identity</string>
+    <string name="secure_note">Secure note</string>
+    <string name="no_folder">No folder</string>
+    <string name="bin">Bin</string>
+    <string name="folders">Folders</string>
+    <string name="logins">Logins</string>
+    <string name="items">Items</string>
+    <string name="enter_website_url">Enter Website Url</string>
+    <string name="save">Save</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="update">Update</string>
+    <string name="edit_details">Edit Details</string>
+    <string name="edit">Edit</string>
+    <string name="my_vault">My vault</string>
+    <string name="send">Send</string>
+    <string name="generator">Generator</string>
+    <string name="settings">Settings</string>
+</resources>
